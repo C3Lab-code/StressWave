@@ -1,0 +1,4 @@
+freq : 100k 400 cycle
+input: -2.12ms 1.88ms
+output: -1.99ms 4.01ms
+fs = 400k
